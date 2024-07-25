@@ -1,4 +1,9 @@
-# Welcome to your CDK TypeScript project
+# learn-hono-awslambda1 
+
+[AWS Lambda - Hono](https://hono.dev/docs/getting-started/aws-lambda)
+に従って作ったけど動きません... 続く
+
+## Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
 
