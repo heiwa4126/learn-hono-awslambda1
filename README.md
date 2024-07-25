@@ -1,7 +1,9 @@
 # learn-hono-awslambda1 
 
 [AWS Lambda - Hono](https://hono.dev/docs/getting-started/aws-lambda)
-に従って作ったけど動きません... 続く
+に従って作ったけど動きません... bunだから? 続く
+
+`cdk bootstrap` は必要だったみたい。
 
 ## Welcome to your CDK TypeScript project
 
